@@ -1,0 +1,1647 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "33",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "TITLE-ABS-KEY(\"hazard map\" AND chile)",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=8&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85177228684"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85177228684?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85177228684&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85177228684&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85177228684",
+        "dc:identifier": "SCOPUS_ID:85177228684",
+        "eid": "2-s2.0-85177228684",
+        "dc:title": "SIGeR-RV: A Web-Geographic Information System-Based System for Risk Management of Road Networks Exposed to Natural Hazards",
+        "dc:creator": "Chamorro A.",
+        "prism:publicationName": "Transportation Research Record",
+        "prism:issn": "03611981",
+        "prism:eIssn": "21694052",
+        "prism:volume": "2677",
+        "prism:issueIdentifier": "12",
+        "prism:pageRange": "754-769",
+        "prism:coverDate": "2023-12-01",
+        "prism:coverDisplayDate": "December 2023",
+        "prism:doi": "10.1177/03611981231169532",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Pontificia Universidad Católica de Chile",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "ANID/FONDAP/1522A0005",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "27418",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132526460"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85132526460?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85132526460&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85132526460&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0013795222002496"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85132526460",
+        "dc:identifier": "SCOPUS_ID:85132526460",
+        "eid": "2-s2.0-85132526460",
+        "dc:title": "Machine learning techniques for estimating seismic site amplification in the Santiago basin, Chile",
+        "dc:creator": "Díaz J.P.",
+        "prism:publicationName": "Engineering Geology",
+        "prism:issn": "00137952",
+        "prism:volume": "306",
+        "prism:pageRange": null,
+        "prism:coverDate": "2022-09-05",
+        "prism:coverDisplayDate": "5 September 2022",
+        "prism:doi": "10.1016/j.enggeo.2022.106764",
+        "pii": "S0013795222002496",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Pontificia Universidad Católica de Chile",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Research Center for Integrated Disaster Risk Management (CIGIDEN)",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "106764",
+        "source-id": "15648",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133914203"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85133914203?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133914203&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85133914203&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85133914203",
+        "dc:identifier": "SCOPUS_ID:85133914203",
+        "eid": "2-s2.0-85133914203",
+        "dc:title": "Probabilistic Volcanic Hazard Assessment of the 22.5–28°S Segment of the Central Volcanic Zone of the Andes",
+        "dc:creator": "Bertin D.",
+        "prism:publicationName": "Frontiers in Earth Science",
+        "prism:eIssn": "22966463",
+        "prism:volume": "10",
+        "prism:pageRange": null,
+        "prism:coverDate": "2022-06-27",
+        "prism:coverDisplayDate": "27 June 2022",
+        "prism:doi": "10.3389/feart.2022.875439",
+        "citedby-count": "5",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "The University of Auckland",
+            "affiliation-city": "Auckland",
+            "affiliation-country": "New Zealand"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "875439",
+        "source-id": "21100782253",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85130343585"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85130343585?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85130343585&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85130343585&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85130343585",
+        "dc:identifier": "SCOPUS_ID:85130343585",
+        "eid": "2-s2.0-85130343585",
+        "dc:title": "Particle Sedimentation in Numerical Modelling: A Case Study from the Puyehue-Cordón Caulle 2011 Eruption with the PLUME-MoM/HYSPLIT Models",
+        "dc:creator": "Tadini A.",
+        "prism:publicationName": "Atmosphere",
+        "prism:eIssn": "20734433",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2022-05-01",
+        "prism:coverDisplayDate": "May 2022",
+        "prism:doi": "10.3390/atmos13050784",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Université Clermont Auvergne",
+            "affiliation-city": "Clermont-Ferrand",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "784",
+        "source-id": "15838",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85127367210"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85127367210?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85127367210&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85127367210&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0197397522000510"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85127367210",
+        "dc:identifier": "SCOPUS_ID:85127367210",
+        "eid": "2-s2.0-85127367210",
+        "dc:title": "Assessment of the flood mitigation ecosystem service in a coastal wetland and potential impact of future urban development in Chile",
+        "dc:creator": "Rojas O.",
+        "prism:publicationName": "Habitat International",
+        "prism:issn": "01973975",
+        "prism:volume": "123",
+        "prism:pageRange": null,
+        "prism:coverDate": "2022-05-01",
+        "prism:coverDisplayDate": "May 2022",
+        "prism:doi": "10.1016/j.habitatint.2022.102554",
+        "pii": "S0197397522000510",
+        "citedby-count": "18",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universidad de Concepcion",
+            "affiliation-city": "Biobio",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "102554",
+        "source-id": "13760",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103307108"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103307108?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103307108&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85103307108&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0895981121001085"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85103307108",
+        "dc:identifier": "SCOPUS_ID:85103307108",
+        "eid": "2-s2.0-85103307108",
+        "dc:title": "GIS-based volcanic hazards, vulnerability and risks assessment of the Guallatiri Volcano, Arica y Parinacota Region, Chile",
+        "dc:creator": "Reyes-Hardy M.P.",
+        "prism:publicationName": "Journal of South American Earth Sciences",
+        "prism:issn": "08959811",
+        "prism:volume": "109",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-08-01",
+        "prism:coverDisplayDate": "August 2021",
+        "prism:doi": "10.1016/j.jsames.2021.103262",
+        "pii": "S0895981121001085",
+        "citedby-count": "9",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universidad Católica del Norte",
+            "affiliation-city": "Antofagasta",
+            "affiliation-country": "Chile"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Centro de Investigación para la Gestión Integrada del Riesgo de Desastres (CIGIDEN)",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "103262",
+        "source-id": "23226",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105696042"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85105696042?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105696042&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85105696042&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0277379121001359"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85105696042",
+        "dc:identifier": "SCOPUS_ID:85105696042",
+        "eid": "2-s2.0-85105696042",
+        "dc:title": "Post–glacial tephrochronology record off the Chilean continental margin (∼41° S)",
+        "dc:creator": "Fontaine C.M.",
+        "prism:publicationName": "Quaternary Science Reviews",
+        "prism:issn": "02773791",
+        "prism:volume": "261",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-06-01",
+        "prism:coverDisplayDate": "1 June 2021",
+        "prism:doi": "10.1016/j.quascirev.2021.106928",
+        "pii": "S0277379121001359",
+        "citedby-count": "4",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Université Paris-Saclay",
+            "affiliation-city": "Gif-sur-Yvette",
+            "affiliation-country": "France"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "CEA Saclay",
+            "affiliation-city": "Gif-sur-Yvette",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "106928",
+        "source-id": "26239",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104337905"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85104337905?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104337905&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85104337905&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85104337905",
+        "dc:identifier": "SCOPUS_ID:85104337905",
+        "eid": "2-s2.0-85104337905",
+        "dc:title": "Microzoning Tsunami Hazard by Combining Flow Depths and Arrival Times",
+        "dc:creator": "Zamora N.",
+        "prism:publicationName": "Frontiers in Earth Science",
+        "prism:eIssn": "22966463",
+        "prism:volume": "8",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-04-01",
+        "prism:coverDisplayDate": "1 April 2021",
+        "prism:doi": "10.3389/feart.2020.591514",
+        "citedby-count": "11",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Centro Nacional de Supercomputación",
+            "affiliation-city": "Barcelona",
+            "affiliation-country": "Spain"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Research Center for Integrated Disaster Risk Management (CIGIDEN)",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "591514",
+        "source-id": "21100782253",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100766828"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85100766828?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100766828&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85100766828&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85100766828",
+        "dc:identifier": "SCOPUS_ID:85100766828",
+        "eid": "2-s2.0-85100766828",
+        "dc:title": "12th ACEH International Workshop on Sustainable Tsunami Disaster Recovery: Sharing Experience, Knowledge and Culture 2019",
+        "prism:publicationName": "IOP Conference Series: Earth and Environmental Science",
+        "prism:issn": "17551307",
+        "prism:eIssn": "17551315",
+        "prism:volume": "630",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-01-12",
+        "prism:coverDisplayDate": "12 January 2021",
+        "citedby-count": "0",
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cr",
+        "subtypeDescription": "Conference Review",
+        "source-id": "19900195068",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101985719"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85101985719?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101985719&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85101985719&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85101985719",
+        "dc:identifier": "SCOPUS_ID:85101985719",
+        "eid": "2-s2.0-85101985719",
+        "dc:title": "Landslide Susceptibility Using Remote Sensing Data GIS in a High Andean Area of Central Chile",
+        "dc:creator": "Vidal-Paez P.",
+        "prism:publicationName": "International Geoscience and Remote Sensing Symposium (IGARSS)",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781728163741"
+          }
+        ],
+        "prism:pageRange": "6604-6607",
+        "prism:coverDate": "2020-09-26",
+        "prism:coverDisplayDate": "26 September 2020",
+        "prism:doi": "10.1109/IGARSS39084.2020.9324317",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universitat Politècnica de València",
+            "affiliation-city": "Valencia",
+            "affiliation-country": "Spain"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "9324317",
+        "source-id": "82000",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85095458151"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85095458151?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85095458151&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85095458151&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85095458151",
+        "dc:identifier": "SCOPUS_ID:85095458151",
+        "eid": "2-s2.0-85095458151",
+        "dc:title": "Holocene volcanism at the Quetrupillán Volcanic Complex (39°30' S, 71°43' W), southern Chile",
+        "dc:creator": "Simmons I.C.",
+        "prism:publicationName": "Volcanica",
+        "prism:eIssn": "26103540",
+        "prism:volume": "3",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "115-137",
+        "prism:coverDate": "2020-02-09",
+        "prism:coverDisplayDate": "9 February 2020",
+        "prism:doi": "10.30909/vol.03.01.115137",
+        "citedby-count": "6",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "The University of Edinburgh",
+            "affiliation-city": "Edinburgh",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21101041526",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryvor"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084431693"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85084431693?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084431693&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85084431693&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85084431693",
+        "dc:identifier": "SCOPUS_ID:85084431693",
+        "eid": "2-s2.0-85084431693",
+        "dc:title": "MatHaz: a Matlab code to assist with probabilistic spatio-temporal volcanic hazard assessment in distributed volcanic fields",
+        "dc:creator": "Bertin D.",
+        "prism:publicationName": "Journal of Applied Volcanology",
+        "prism:eIssn": "21915040",
+        "prism:volume": "8",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2019-12-01",
+        "prism:coverDisplayDate": "December 2019",
+        "prism:doi": "10.1186/s13617-019-0084-6",
+        "citedby-count": "10",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "The University of Auckland",
+            "affiliation-city": "Auckland",
+            "affiliation-country": "New Zealand"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "4",
+        "source-id": "21100454936",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081180911"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85081180911?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081180911&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85081180911&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85081180911",
+        "dc:identifier": "SCOPUS_ID:85081180911",
+        "eid": "2-s2.0-85081180911",
+        "dc:title": "New chilean seismic code and the use of Nakamura period for assessing damage potential",
+        "dc:creator": "Ruz F.",
+        "prism:publicationName": "Earthquake Geotechnical Engineering for Protection and Development of Environment and Constructions- Proceedings of the 7th International Conference on Earthquake Geotechnical Engineering, 2019",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780367143282"
+          }
+        ],
+        "prism:pageRange": "4760-4767",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "RyV Ingenieros",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100985307",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049624539"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85049624539?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049624539&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85049624539&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S037702731830115X"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85049624539",
+        "dc:identifier": "SCOPUS_ID:85049624539",
+        "eid": "2-s2.0-85049624539",
+        "dc:title": "Slope stability models for rainfall-induced lahars during long-lasting eruptions",
+        "dc:creator": "Baumann V.",
+        "prism:publicationName": "Journal of Volcanology and Geothermal Research",
+        "prism:issn": "03770273",
+        "prism:volume": "359",
+        "prism:pageRange": "78-94",
+        "prism:coverDate": "2018-06-15",
+        "prism:coverDisplayDate": "15 June 2018",
+        "prism:doi": "10.1016/j.jvolgeores.2018.06.018",
+        "pii": "S037702731830115X",
+        "citedby-count": "15",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Université de Genève",
+            "affiliation-city": "Geneva",
+            "affiliation-country": "Switzerland"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28449",
+        "openaccess": "0",
+        "openaccessFlag": false,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045036463"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85045036463?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045036463&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85045036463&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85045036463",
+        "dc:identifier": "SCOPUS_ID:85045036463",
+        "eid": "2-s2.0-85045036463",
+        "dc:title": "Seismic hazard, risk, and design for south america",
+        "dc:creator": "Petersen M.D.",
+        "prism:publicationName": "Bulletin of the Seismological Society of America",
+        "prism:issn": "00371106",
+        "prism:eIssn": "19433573",
+        "prism:volume": "108",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "781-800",
+        "prism:coverDate": "2018-04-01",
+        "prism:coverDisplayDate": "April 2018",
+        "prism:doi": "10.1785/0120170002",
+        "citedby-count": "42",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "United States Geological Survey Central Region",
+            "affiliation-city": "Denver",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28947",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078268219"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078268219?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078268219&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078268219&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078268219",
+        "dc:identifier": "SCOPUS_ID:85078268219",
+        "eid": "2-s2.0-85078268219",
+        "dc:title": "An integrated platform for seismic hazard evaluation",
+        "dc:creator": "Candia G.",
+        "prism:publicationName": "11th National Conference on Earthquake Engineering 2018, NCEE 2018: Integrating Science, Engineering, and Policy",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781510873254"
+          }
+        ],
+        "prism:volume": "1",
+        "prism:pageRange": "390-400",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "11",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universidad del Desarrollo",
+            "affiliation-city": "Concepcion",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100984133",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018255065"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85018255065?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018255065&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85018255065&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85018255065",
+        "dc:identifier": "SCOPUS_ID:85018255065",
+        "eid": "2-s2.0-85018255065",
+        "dc:title": "Energy method for approximating overland tsunami flows",
+        "dc:creator": "Kriebe D.L.",
+        "prism:publicationName": "Journal of Waterway, Port, Coastal and Ocean Engineering",
+        "prism:issn": "0733950X",
+        "prism:volume": "143",
+        "prism:issueIdentifier": "5",
+        "prism:pageRange": null,
+        "prism:coverDate": "2017-09-01",
+        "prism:coverDisplayDate": "1 September 2017",
+        "prism:doi": "10.1061/(ASCE)WW.1943-5460.0000393",
+        "citedby-count": "23",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "US Naval Academy",
+            "affiliation-city": "Annapolis",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "04017014",
+        "source-id": "50091",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013764367"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85013764367?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013764367&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85013764367&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85013764367",
+        "dc:identifier": "SCOPUS_ID:85013764367",
+        "eid": "2-s2.0-85013764367",
+        "dc:title": "3-D ballistic transport of ellipsoidal volcanic projectiles considering horizontal wind field and variable shape-dependent drag coefficients",
+        "dc:creator": "Bertin D.",
+        "prism:publicationName": "Journal of Geophysical Research: Solid Earth",
+        "prism:issn": "21699313",
+        "prism:eIssn": "21699356",
+        "prism:volume": "122",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1126-1151",
+        "prism:coverDate": "2017-02-01",
+        "prism:coverDisplayDate": "1 February 2017",
+        "prism:doi": "10.1002/2016JB013320",
+        "citedby-count": "15",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Servicio Nacional de Geologia y Mineria",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100855886",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994275392"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84994275392?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994275392&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84994275392&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0377027316302529"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84994275392",
+        "dc:identifier": "SCOPUS_ID:84994275392",
+        "eid": "2-s2.0-84994275392",
+        "dc:title": "A contribution to the hazards assessment at Copahue volcano (Argentina-Chile) by facies analysis of a recent pyroclastic density current deposit",
+        "dc:creator": "Balbis C.",
+        "prism:publicationName": "Journal of Volcanology and Geothermal Research",
+        "prism:issn": "03770273",
+        "prism:volume": "327",
+        "prism:pageRange": "288-298",
+        "prism:coverDate": "2016-11-15",
+        "prism:coverDisplayDate": "15 November 2016",
+        "prism:doi": "10.1016/j.jvolgeores.2016.08.009",
+        "pii": "S0377027316302529",
+        "citedby-count": "8",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universidad Nacional de Córdoba",
+            "affiliation-city": "Cordoba",
+            "affiliation-country": "Argentina"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28449",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008884576"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85008884576?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85008884576&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85008884576&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85008884576",
+        "dc:identifier": "SCOPUS_ID:85008884576",
+        "eid": "2-s2.0-85008884576",
+        "dc:title": "Application of HF Radar in Hazard Management",
+        "dc:creator": "Heron M.",
+        "prism:publicationName": "International Journal of Antennas and Propagation",
+        "prism:issn": "16875869",
+        "prism:eIssn": "16875877",
+        "prism:volume": "2016",
+        "prism:pageRange": null,
+        "prism:coverDate": "2016-01-01",
+        "prism:coverDisplayDate": "2016",
+        "prism:doi": "10.1155/2016/4725407",
+        "citedby-count": "11",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "James Cook University",
+            "affiliation-city": "Townsville",
+            "affiliation-country": "Australia"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "article-number": "4725407",
+        "source-id": "19700186861",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84939942904"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84939942904?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84939942904&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84939942904&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84939942904",
+        "dc:identifier": "SCOPUS_ID:84939942904",
+        "eid": "2-s2.0-84939942904",
+        "dc:title": "Lahar simulation at active volcanoes of the Southern Andes: implications for hazard assessment",
+        "dc:creator": "Castruccio A.",
+        "prism:publicationName": "Natural Hazards",
+        "prism:issn": "0921030X",
+        "prism:eIssn": "15730840",
+        "prism:volume": "77",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "693-716",
+        "prism:coverDate": "2015-06-01",
+        "prism:coverDisplayDate": "1 June 2015",
+        "prism:doi": "10.1007/s11069-015-1617-x",
+        "citedby-count": "14",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Centro de Excelencia en Geotermia de Los Andes (CEGA)",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Universidad de Chile",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "23282",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84929012570"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84929012570?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84929012570&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84929012570&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84929012570",
+        "dc:identifier": "SCOPUS_ID:84929012570",
+        "eid": "2-s2.0-84929012570",
+        "dc:title": "Tsunami hazard mitigation activities in California",
+        "dc:creator": "Wilson R.I.",
+        "prism:publicationName": "NCEE 2014 - 10th U.S. National Conference on Earthquake Engineering: Frontiers of Earthquake Engineering",
+        "prism:pageRange": null,
+        "prism:coverDate": "2014-01-01",
+        "prism:coverDisplayDate": "2014",
+        "prism:doi": "10.4231/D30000131",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "California Geological Survey",
+            "affiliation-city": "Sacramento",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100389513",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84929011635"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84929011635?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84929011635&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84929011635&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84929011635",
+        "dc:identifier": "SCOPUS_ID:84929011635",
+        "eid": "2-s2.0-84929011635",
+        "dc:title": "Statistical analysis of pedestrian bridges damaged during 2010 Chile earthquake",
+        "dc:creator": "Toro F.I.",
+        "prism:publicationName": "NCEE 2014 - 10th U.S. National Conference on Earthquake Engineering: Frontiers of Earthquake Engineering",
+        "prism:pageRange": null,
+        "prism:coverDate": "2014-01-01",
+        "prism:coverDisplayDate": "2014",
+        "prism:doi": "10.4231/D3WS8HM6B",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Pontificia Universidad Católica de Chile",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100389513",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84861961342"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84861961342?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84861961342&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84861961342&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84861961342",
+        "dc:identifier": "SCOPUS_ID:84861961342",
+        "eid": "2-s2.0-84861961342",
+        "dc:title": "Multi-hazard maps for the Valparaiso area (Chile)",
+        "dc:creator": "Indirli M.",
+        "prism:publicationName": "COST ACTION C26: Urban Habitat Constructions under Catastrophic Events - Proceedings of the Final Conference",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780415606851"
+          }
+        ],
+        "prism:pageRange": "999-1004",
+        "prism:coverDate": "2010-12-01",
+        "prism:coverDisplayDate": "2010",
+        "citedby-count": "3",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Ente Per Le Nuove Tecnologie, l'Energia e l'Ambiente",
+            "affiliation-city": "Rome",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100203305",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876014788"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/84876014788?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84876014788&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=84876014788&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/84876014788",
+        "dc:identifier": "SCOPUS_ID:84876014788",
+        "eid": "2-s2.0-84876014788",
+        "dc:title": "Heritage protection in Valparaiso (Chile): The \"mar Vasto\" project",
+        "dc:creator": "Indirli M.",
+        "prism:publicationName": "Revista Ingenieria de Construccion",
+        "prism:issn": "07162952",
+        "prism:eIssn": "07185073",
+        "prism:volume": "25",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "21-62",
+        "prism:coverDate": "2010-01-01",
+        "prism:coverDisplayDate": "2010",
+        "citedby-count": "13",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Ente Per Le Nuove Tecnologie, l'Energia e l'Ambiente",
+            "affiliation-city": "Rome",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100220436",
+        "openaccess": "0",
+        "openaccessFlag": false
+      }
+    ]
+  }
+}

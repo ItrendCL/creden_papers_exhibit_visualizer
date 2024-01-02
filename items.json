@@ -1,0 +1,781 @@
+{
+  "types": {
+    "Article": {
+      "pluralLabel": "Articles",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#Article"
+    },
+    "Affiliation": {
+      "pluralLabel": "Affiliations",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#Affiliation"
+    }
+  },
+  "properties": {
+    "doi": {
+      "label": "DOI",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#doi"
+    },
+    "title": {
+      "label": "Title",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#title"
+    },
+    "pubName": {
+      "label": "Publication Name",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#title"
+    },
+    "pubDate": {
+      "label": "Publication Date",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#pubDate"
+    },
+    "pubType": {
+      "label": "Publication Type",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#pubType"
+    },
+    "mainAuthor": {
+      "label": "Principal Author",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#mainAuthor"
+    },
+    "year": {
+      "label": "Year",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#year"
+    },
+    "country": {
+      "label": "Country",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#country"
+    },
+    "city": {
+      "label": "City",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#city"
+    },
+    "link": {
+      "label": "Link",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#link"
+    },
+    "affiliation": {
+      "label": "Affiliation",
+      "uri": "http://simile.mit.edu/2007/05/article-ns#affiliation",
+      "valueType": "item"
+    }
+  },
+  "items": [
+    {
+      "title": "The influence of urban expansion on the flood hazard in Santiago de Chile: A modeling approach using remote sensing data",
+      "label": "The influence of urban expansion on the flood hazard in Santiago de Chile: A modeling approach using remote sensing data",
+      "pubName": "2009 Joint Urban Remote Sensing Event",
+      "pubDate": "2009-10-26",
+      "doi": "10.1109/URS.2009.5137601",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Ebert A.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=70350173612&origin=inward",
+      "type": "Article",
+      "year": "2009",
+      "affiliation": [
+        "Helmholtz Zentrum f\u00fcr Umweltforschung"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/0"
+    },
+    {
+      "title": "Assessment and modelling of debris flows in the E1 Ni\u00f1po affected area of Matucana, Peru",
+      "label": "Assessment and modelling of debris flows in the E1 Ni\u00f1po affected area of Matucana, Peru",
+      "pubName": "International Conference on Debris-Flow Hazards Mitigation: Mechanics, Prediction, and Assessment, Proceedings",
+      "pubDate": "2007-12-01",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Fidel L.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=57849129014&origin=inward",
+      "type": "Article",
+      "year": "2007",
+      "affiliation": [
+        "Instituto Geol\u00f3gico Minero y Melal\u00fargico"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/1"
+    },
+    {
+      "title": "Tsunamis",
+      "label": "Tsunamis",
+      "pubName": "Treatise on Geophysics",
+      "pubDate": "2007-12-01",
+      "doi": "10.1016/B978-044452748-6.00078-X",
+      "pubType": "Book",
+      "mainAuthor": "Satake K.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=53549119097&origin=inward",
+      "type": "Article",
+      "year": "2007",
+      "affiliation": [
+        "National Institute of Advanced Industrial Science and Technology"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/2"
+    },
+    {
+      "title": "4.17 - Tsunamis",
+      "label": "4.17 - Tsunamis",
+      "pubName": "Treatise on Geophysics: Volume 1-10",
+      "pubDate": "2007-01-01",
+      "doi": "10.1016/B978-044452748-6.00078-X",
+      "pubType": "Book",
+      "mainAuthor": "Satake K.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85146816983&origin=inward",
+      "type": "Article",
+      "year": "2007",
+      "affiliation": [
+        "National Institute of Advanced Industrial Science and Technology"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/3"
+    },
+    {
+      "title": "Seismic hazard map of the western hemisphere",
+      "label": "Seismic hazard map of the western hemisphere",
+      "pubName": "Annali di Geofisica",
+      "pubDate": "1999-12-01",
+      "pubType": "Journal",
+      "mainAuthor": "Shedlock K.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0033495255&origin=inward",
+      "type": "Article",
+      "year": "1999",
+      "affiliation": [
+        "United States Geological Survey"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/4"
+    },
+    {
+      "title": "Geographical information system applications to geomorphological and environmental studies: a synthetic map of potential risk and a map of erosion",
+      "label": "Geographical information system applications to geomorphological and environmental studies: a synthetic map of potential risk and a map of erosion",
+      "pubName": "Lurralde",
+      "pubDate": "1995-01-01",
+      "pubType": "Journal",
+      "mainAuthor": "Edeso J.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0029504990&origin=inward",
+      "type": "Article",
+      "year": "1995",
+      "affiliation": [],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/5"
+    },
+    {
+      "title": "Mass wasting in Chile",
+      "label": "Mass wasting in Chile",
+      "pubName": "Boletin - Servicio Nacional de Geologia y Mineria, Chile",
+      "pubDate": "1993-01-01",
+      "pubType": "Journal",
+      "mainAuthor": "Hauser Y. A.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0027721713&origin=inward",
+      "type": "Article",
+      "year": "1993",
+      "affiliation": [
+        "Servicio Nacional de Geologia y Mineria"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/6"
+    },
+    {
+      "title": "Possible use of uniform hazard response spectra in building codes in the United States and Chile",
+      "label": "Possible use of uniform hazard response spectra in building codes in the United States and Chile",
+      "pubName": "Revista Geofisica",
+      "pubDate": "1992-01-01",
+      "pubType": "Journal",
+      "mainAuthor": "Leyendecker E.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0027019765&origin=inward",
+      "type": "Article",
+      "year": "1992",
+      "affiliation": [],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/7"
+    },
+    {
+      "title": "SIGeR-RV: A Web-Geographic Information System-Based System for Risk Management of Road Networks Exposed to Natural Hazards",
+      "label": "SIGeR-RV: A Web-Geographic Information System-Based System for Risk Management of Road Networks Exposed to Natural Hazards",
+      "pubName": "Transportation Research Record",
+      "pubDate": "2023-12-01",
+      "doi": "10.1177/03611981231169532",
+      "pubType": "Journal",
+      "mainAuthor": "Chamorro A.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85177228684&origin=inward",
+      "type": "Article",
+      "year": "2023",
+      "affiliation": [
+        "Pontificia Universidad Cat\u00f3lica de Chile",
+        "ANID/FONDAP/1522A0005"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/0"
+    },
+    {
+      "title": "Machine learning techniques for estimating seismic site amplification in the Santiago basin, Chile",
+      "label": "Machine learning techniques for estimating seismic site amplification in the Santiago basin, Chile",
+      "pubName": "Engineering Geology",
+      "pubDate": "2022-09-05",
+      "doi": "10.1016/j.enggeo.2022.106764",
+      "pubType": "Journal",
+      "mainAuthor": "D\u00edaz J.P.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85132526460&origin=inward",
+      "type": "Article",
+      "year": "2022",
+      "affiliation": [
+        "Pontificia Universidad Cat\u00f3lica de Chile",
+        "Research Center for Integrated Disaster Risk Management (CIGIDEN)"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/1"
+    },
+    {
+      "title": "Probabilistic Volcanic Hazard Assessment of the 22.5\u201328\u00b0S Segment of the Central Volcanic Zone of the Andes",
+      "label": "Probabilistic Volcanic Hazard Assessment of the 22.5\u201328\u00b0S Segment of the Central Volcanic Zone of the Andes",
+      "pubName": "Frontiers in Earth Science",
+      "pubDate": "2022-06-27",
+      "doi": "10.3389/feart.2022.875439",
+      "pubType": "Journal",
+      "mainAuthor": "Bertin D.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85133914203&origin=inward",
+      "type": "Article",
+      "year": "2022",
+      "affiliation": [
+        "The University of Auckland"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/2"
+    },
+    {
+      "title": "Particle Sedimentation in Numerical Modelling: A Case Study from the Puyehue-Cord\u00f3n Caulle 2011 Eruption with the PLUME-MoM/HYSPLIT Models",
+      "label": "Particle Sedimentation in Numerical Modelling: A Case Study from the Puyehue-Cord\u00f3n Caulle 2011 Eruption with the PLUME-MoM/HYSPLIT Models",
+      "pubName": "Atmosphere",
+      "pubDate": "2022-05-01",
+      "doi": "10.3390/atmos13050784",
+      "pubType": "Journal",
+      "mainAuthor": "Tadini A.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85130343585&origin=inward",
+      "type": "Article",
+      "year": "2022",
+      "affiliation": [
+        "Universit\u00e9 Clermont Auvergne"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/3"
+    },
+    {
+      "title": "Assessment of the flood mitigation ecosystem service in a coastal wetland and potential impact of future urban development in Chile",
+      "label": "Assessment of the flood mitigation ecosystem service in a coastal wetland and potential impact of future urban development in Chile",
+      "pubName": "Habitat International",
+      "pubDate": "2022-05-01",
+      "doi": "10.1016/j.habitatint.2022.102554",
+      "pubType": "Journal",
+      "mainAuthor": "Rojas O.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85127367210&origin=inward",
+      "type": "Article",
+      "year": "2022",
+      "affiliation": [
+        "Universidad de Concepcion"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/4"
+    },
+    {
+      "title": "GIS-based volcanic hazards, vulnerability and risks assessment of the Guallatiri Volcano, Arica y Parinacota Region, Chile",
+      "label": "GIS-based volcanic hazards, vulnerability and risks assessment of the Guallatiri Volcano, Arica y Parinacota Region, Chile",
+      "pubName": "Journal of South American Earth Sciences",
+      "pubDate": "2021-08-01",
+      "doi": "10.1016/j.jsames.2021.103262",
+      "pubType": "Journal",
+      "mainAuthor": "Reyes-Hardy M.P.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103307108&origin=inward",
+      "type": "Article",
+      "year": "2021",
+      "affiliation": [
+        "Universidad Cat\u00f3lica del Norte",
+        "Centro de Investigaci\u00f3n para la Gesti\u00f3n Integrada del Riesgo de Desastres (CIGIDEN)"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/5"
+    },
+    {
+      "title": "Post\u2013glacial tephrochronology record off the Chilean continental margin (\u223c41\u00b0 S)",
+      "label": "Post\u2013glacial tephrochronology record off the Chilean continental margin (\u223c41\u00b0 S)",
+      "pubName": "Quaternary Science Reviews",
+      "pubDate": "2021-06-01",
+      "doi": "10.1016/j.quascirev.2021.106928",
+      "pubType": "Journal",
+      "mainAuthor": "Fontaine C.M.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85105696042&origin=inward",
+      "type": "Article",
+      "year": "2021",
+      "affiliation": [
+        "Universit\u00e9 Paris-Saclay",
+        "CEA Saclay"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/6"
+    },
+    {
+      "title": "Microzoning Tsunami Hazard by Combining Flow Depths and Arrival Times",
+      "label": "Microzoning Tsunami Hazard by Combining Flow Depths and Arrival Times",
+      "pubName": "Frontiers in Earth Science",
+      "pubDate": "2021-04-01",
+      "doi": "10.3389/feart.2020.591514",
+      "pubType": "Journal",
+      "mainAuthor": "Zamora N.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85104337905&origin=inward",
+      "type": "Article",
+      "year": "2021",
+      "affiliation": [
+        "Centro Nacional de Supercomputaci\u00f3n",
+        "Research Center for Integrated Disaster Risk Management (CIGIDEN)"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/7"
+    },
+    {
+      "title": "12th ACEH International Workshop on Sustainable Tsunami Disaster Recovery: Sharing Experience, Knowledge and Culture 2019",
+      "label": "12th ACEH International Workshop on Sustainable Tsunami Disaster Recovery: Sharing Experience, Knowledge and Culture 2019",
+      "pubName": "IOP Conference Series: Earth and Environmental Science",
+      "pubDate": "2021-01-12",
+      "pubType": "Conference Proceeding",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85100766828&origin=inward",
+      "type": "Article",
+      "year": "2021",
+      "affiliation": [],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/8"
+    },
+    {
+      "title": "Landslide Susceptibility Using Remote Sensing Data GIS in a High Andean Area of Central Chile",
+      "label": "Landslide Susceptibility Using Remote Sensing Data GIS in a High Andean Area of Central Chile",
+      "pubName": "International Geoscience and Remote Sensing Symposium (IGARSS)",
+      "pubDate": "2020-09-26",
+      "doi": "10.1109/IGARSS39084.2020.9324317",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Vidal-Paez P.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85101985719&origin=inward",
+      "type": "Article",
+      "year": "2020",
+      "affiliation": [
+        "Universitat Polit\u00e8cnica de Val\u00e8ncia"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/9"
+    },
+    {
+      "title": "Holocene volcanism at the Quetrupill\u00e1n Volcanic Complex (39\u00b030' S, 71\u00b043' W), southern Chile",
+      "label": "Holocene volcanism at the Quetrupill\u00e1n Volcanic Complex (39\u00b030' S, 71\u00b043' W), southern Chile",
+      "pubName": "Volcanica",
+      "pubDate": "2020-02-09",
+      "doi": "10.30909/vol.03.01.115137",
+      "pubType": "Journal",
+      "mainAuthor": "Simmons I.C.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85095458151&origin=inward",
+      "type": "Article",
+      "year": "2020",
+      "affiliation": [
+        "The University of Edinburgh"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/10"
+    },
+    {
+      "title": "MatHaz: a Matlab code to assist with probabilistic spatio-temporal volcanic hazard assessment in distributed volcanic fields",
+      "label": "MatHaz: a Matlab code to assist with probabilistic spatio-temporal volcanic hazard assessment in distributed volcanic fields",
+      "pubName": "Journal of Applied Volcanology",
+      "pubDate": "2019-12-01",
+      "doi": "10.1186/s13617-019-0084-6",
+      "pubType": "Journal",
+      "mainAuthor": "Bertin D.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85084431693&origin=inward",
+      "type": "Article",
+      "year": "2019",
+      "affiliation": [
+        "The University of Auckland"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/11"
+    },
+    {
+      "title": "New chilean seismic code and the use of Nakamura period for assessing damage potential",
+      "label": "New chilean seismic code and the use of Nakamura period for assessing damage potential",
+      "pubName": "Earthquake Geotechnical Engineering for Protection and Development of Environment and Constructions- Proceedings of the 7th International Conference on Earthquake Geotechnical Engineering, 2019",
+      "pubDate": "2019-01-01",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Ruz F.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081180911&origin=inward",
+      "type": "Article",
+      "year": "2019",
+      "affiliation": [
+        "RyV Ingenieros"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/12"
+    },
+    {
+      "title": "Slope stability models for rainfall-induced lahars during long-lasting eruptions",
+      "label": "Slope stability models for rainfall-induced lahars during long-lasting eruptions",
+      "pubName": "Journal of Volcanology and Geothermal Research",
+      "pubDate": "2018-06-15",
+      "doi": "10.1016/j.jvolgeores.2018.06.018",
+      "pubType": "Journal",
+      "mainAuthor": "Baumann V.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85049624539&origin=inward",
+      "type": "Article",
+      "year": "2018",
+      "affiliation": [
+        "Universit\u00e9 de Gen\u00e8ve"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/13"
+    },
+    {
+      "title": "Seismic hazard, risk, and design for south america",
+      "label": "Seismic hazard, risk, and design for south america",
+      "pubName": "Bulletin of the Seismological Society of America",
+      "pubDate": "2018-04-01",
+      "doi": "10.1785/0120170002",
+      "pubType": "Journal",
+      "mainAuthor": "Petersen M.D.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045036463&origin=inward",
+      "type": "Article",
+      "year": "2018",
+      "affiliation": [
+        "United States Geological Survey Central Region"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/14"
+    },
+    {
+      "title": "An integrated platform for seismic hazard evaluation",
+      "label": "An integrated platform for seismic hazard evaluation",
+      "pubName": "11th National Conference on Earthquake Engineering 2018, NCEE 2018: Integrating Science, Engineering, and Policy",
+      "pubDate": "2018-01-01",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Candia G.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078268219&origin=inward",
+      "type": "Article",
+      "year": "2018",
+      "affiliation": [
+        "Universidad del Desarrollo"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/15"
+    },
+    {
+      "title": "Energy method for approximating overland tsunami flows",
+      "label": "Energy method for approximating overland tsunami flows",
+      "pubName": "Journal of Waterway, Port, Coastal and Ocean Engineering",
+      "pubDate": "2017-09-01",
+      "doi": "10.1061/(ASCE)WW.1943-5460.0000393",
+      "pubType": "Journal",
+      "mainAuthor": "Kriebe D.L.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85018255065&origin=inward",
+      "type": "Article",
+      "year": "2017",
+      "affiliation": [
+        "US Naval Academy"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/16"
+    },
+    {
+      "title": "3-D ballistic transport of ellipsoidal volcanic projectiles considering horizontal wind field and variable shape-dependent drag coefficients",
+      "label": "3-D ballistic transport of ellipsoidal volcanic projectiles considering horizontal wind field and variable shape-dependent drag coefficients",
+      "pubName": "Journal of Geophysical Research: Solid Earth",
+      "pubDate": "2017-02-01",
+      "doi": "10.1002/2016JB013320",
+      "pubType": "Journal",
+      "mainAuthor": "Bertin D.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85013764367&origin=inward",
+      "type": "Article",
+      "year": "2017",
+      "affiliation": [
+        "Servicio Nacional de Geologia y Mineria"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/17"
+    },
+    {
+      "title": "A contribution to the hazards assessment at Copahue volcano (Argentina-Chile) by facies analysis of a recent pyroclastic density current deposit",
+      "label": "A contribution to the hazards assessment at Copahue volcano (Argentina-Chile) by facies analysis of a recent pyroclastic density current deposit",
+      "pubName": "Journal of Volcanology and Geothermal Research",
+      "pubDate": "2016-11-15",
+      "doi": "10.1016/j.jvolgeores.2016.08.009",
+      "pubType": "Journal",
+      "mainAuthor": "Balbis C.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84994275392&origin=inward",
+      "type": "Article",
+      "year": "2016",
+      "affiliation": [
+        "Universidad Nacional de C\u00f3rdoba"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/18"
+    },
+    {
+      "title": "Application of HF Radar in Hazard Management",
+      "label": "Application of HF Radar in Hazard Management",
+      "pubName": "International Journal of Antennas and Propagation",
+      "pubDate": "2016-01-01",
+      "doi": "10.1155/2016/4725407",
+      "pubType": "Journal",
+      "mainAuthor": "Heron M.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85008884576&origin=inward",
+      "type": "Article",
+      "year": "2016",
+      "affiliation": [
+        "James Cook University"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/19"
+    },
+    {
+      "title": "Lahar simulation at active volcanoes of the Southern Andes: implications for hazard assessment",
+      "label": "Lahar simulation at active volcanoes of the Southern Andes: implications for hazard assessment",
+      "pubName": "Natural Hazards",
+      "pubDate": "2015-06-01",
+      "doi": "10.1007/s11069-015-1617-x",
+      "pubType": "Journal",
+      "mainAuthor": "Castruccio A.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84939942904&origin=inward",
+      "type": "Article",
+      "year": "2015",
+      "affiliation": [
+        "Centro de Excelencia en Geotermia de Los Andes (CEGA)",
+        "Universidad de Chile"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/20"
+    },
+    {
+      "title": "Tsunami hazard mitigation activities in California",
+      "label": "Tsunami hazard mitigation activities in California",
+      "pubName": "NCEE 2014 - 10th U.S. National Conference on Earthquake Engineering: Frontiers of Earthquake Engineering",
+      "pubDate": "2014-01-01",
+      "doi": "10.4231/D30000131",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Wilson R.I.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84929012570&origin=inward",
+      "type": "Article",
+      "year": "2014",
+      "affiliation": [
+        "California Geological Survey"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/21"
+    },
+    {
+      "title": "Statistical analysis of pedestrian bridges damaged during 2010 Chile earthquake",
+      "label": "Statistical analysis of pedestrian bridges damaged during 2010 Chile earthquake",
+      "pubName": "NCEE 2014 - 10th U.S. National Conference on Earthquake Engineering: Frontiers of Earthquake Engineering",
+      "pubDate": "2014-01-01",
+      "doi": "10.4231/D3WS8HM6B",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Toro F.I.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84929011635&origin=inward",
+      "type": "Article",
+      "year": "2014",
+      "affiliation": [
+        "Pontificia Universidad Cat\u00f3lica de Chile"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/22"
+    },
+    {
+      "title": "Multi-hazard maps for the Valparaiso area (Chile)",
+      "label": "Multi-hazard maps for the Valparaiso area (Chile)",
+      "pubName": "COST ACTION C26: Urban Habitat Constructions under Catastrophic Events - Proceedings of the Final Conference",
+      "pubDate": "2010-12-01",
+      "pubType": "Conference Proceeding",
+      "mainAuthor": "Indirli M.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84861961342&origin=inward",
+      "type": "Article",
+      "year": "2010",
+      "affiliation": [
+        "Ente Per Le Nuove Tecnologie, l'Energia e l'Ambiente"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/23"
+    },
+    {
+      "title": "Heritage protection in Valparaiso (Chile): The \"mar Vasto\" project",
+      "label": "Heritage protection in Valparaiso (Chile): The \"mar Vasto\" project",
+      "pubName": "Revista Ingenieria de Construccion",
+      "pubDate": "2010-01-01",
+      "pubType": "Journal",
+      "mainAuthor": "Indirli M.",
+      "link": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84876014788&origin=inward",
+      "type": "Article",
+      "year": "2010",
+      "affiliation": [
+        "Ente Per Le Nuove Tecnologie, l'Energia e l'Ambiente"
+      ],
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Article/24"
+    },
+    {
+      "label": "Helmholtz Zentrum f\u00fcr Umweltforschung",
+      "type": "Affiliation",
+      "country": "Germany",
+      "city": "Leipzig",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/0"
+    },
+    {
+      "label": "Instituto Geol\u00f3gico Minero y Melal\u00fargico",
+      "type": "Affiliation",
+      "country": "Peru",
+      "city": null,
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/1"
+    },
+    {
+      "label": "National Institute of Advanced Industrial Science and Technology",
+      "type": "Affiliation",
+      "country": "Japan",
+      "city": "Tsukuba",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/2"
+    },
+    {
+      "label": "United States Geological Survey",
+      "type": "Affiliation",
+      "country": "United States",
+      "city": "Reston",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/3"
+    },
+    {
+      "label": "Servicio Nacional de Geologia y Mineria",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/4"
+    },
+    {
+      "label": "Pontificia Universidad Cat\u00f3lica de Chile",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/5"
+    },
+    {
+      "label": "ANID/FONDAP/1522A0005",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/6"
+    },
+    {
+      "label": "Research Center for Integrated Disaster Risk Management (CIGIDEN)",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/7"
+    },
+    {
+      "label": "The University of Auckland",
+      "type": "Affiliation",
+      "country": "New Zealand",
+      "city": "Auckland",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/8"
+    },
+    {
+      "label": "Universit\u00e9 Clermont Auvergne",
+      "type": "Affiliation",
+      "country": "France",
+      "city": "Clermont-Ferrand",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/9"
+    },
+    {
+      "label": "Universidad de Concepcion",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Biobio",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/10"
+    },
+    {
+      "label": "Universidad Cat\u00f3lica del Norte",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Antofagasta",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/11"
+    },
+    {
+      "label": "Centro de Investigaci\u00f3n para la Gesti\u00f3n Integrada del Riesgo de Desastres (CIGIDEN)",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/12"
+    },
+    {
+      "label": "Universit\u00e9 Paris-Saclay",
+      "type": "Affiliation",
+      "country": "France",
+      "city": "Gif-sur-Yvette",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/13"
+    },
+    {
+      "label": "CEA Saclay",
+      "type": "Affiliation",
+      "country": "France",
+      "city": "Gif-sur-Yvette",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/14"
+    },
+    {
+      "label": "Centro Nacional de Supercomputaci\u00f3n",
+      "type": "Affiliation",
+      "country": "Spain",
+      "city": "Barcelona",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/15"
+    },
+    {
+      "label": "Universitat Polit\u00e8cnica de Val\u00e8ncia",
+      "type": "Affiliation",
+      "country": "Spain",
+      "city": "Valencia",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/16"
+    },
+    {
+      "label": "The University of Edinburgh",
+      "type": "Affiliation",
+      "country": "United Kingdom",
+      "city": "Edinburgh",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/17"
+    },
+    {
+      "label": "RyV Ingenieros",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/18"
+    },
+    {
+      "label": "Universit\u00e9 de Gen\u00e8ve",
+      "type": "Affiliation",
+      "country": "Switzerland",
+      "city": "Geneva",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/19"
+    },
+    {
+      "label": "United States Geological Survey Central Region",
+      "type": "Affiliation",
+      "country": "United States",
+      "city": "Denver",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/20"
+    },
+    {
+      "label": "Universidad del Desarrollo",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Concepcion",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/21"
+    },
+    {
+      "label": "US Naval Academy",
+      "type": "Affiliation",
+      "country": "United States",
+      "city": "Annapolis",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/22"
+    },
+    {
+      "label": "Universidad Nacional de C\u00f3rdoba",
+      "type": "Affiliation",
+      "country": "Argentina",
+      "city": "Cordoba",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/23"
+    },
+    {
+      "label": "James Cook University",
+      "type": "Affiliation",
+      "country": "Australia",
+      "city": "Townsville",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/24"
+    },
+    {
+      "label": "Centro de Excelencia en Geotermia de Los Andes (CEGA)",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/25"
+    },
+    {
+      "label": "Universidad de Chile",
+      "type": "Affiliation",
+      "country": "Chile",
+      "city": "Santiago",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/26"
+    },
+    {
+      "label": "California Geological Survey",
+      "type": "Affiliation",
+      "country": "United States",
+      "city": "Sacramento",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/27"
+    },
+    {
+      "label": "Ente Per Le Nuove Tecnologie, l'Energia e l'Ambiente",
+      "type": "Affiliation",
+      "country": "Italy",
+      "city": "Rome",
+      "uri": "http://simile.mit.edu/2007/05/article-ns/Affiliation/28"
+    }
+  ]
+}

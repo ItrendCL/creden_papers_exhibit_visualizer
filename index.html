@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SIMILE Widgets | Exhibit 3.0 | Scripted Demos | MIT Nobel Prize Winners</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <link rel="stylesheet" href="http://www.simile-widgets.org/styles/common.css" type="text/css" />
+
+    <link href="items.json" type="application/json" rel="exhibit-data" />
+
+    <!--<script src="../api/exhibit-api.js"></script> -->
+    <script src="https://api.simile-widgets.org/exhibit/current/exhibit-api.js" type="text/javascript"></script>
+
+    <!-- Replace the URL here with http://api.simile-widgets.org/exhibit/current/extensions/time/time-extension.js -->
+    <link rel="exhibit-extension" type="text/javascript" href="https://api.simile-widgets.org/exhibit/current/extensions/time/time-extension.js" />
+        
+    
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: "Lucida Grande","Tahoma","Helvetica","Arial",sans-serif;
+            color: #222;
+        }
+        table, tr, td {
+            font-size: inherit;
+        }
+        tr, td {
+            vertical-align: top;
+        }
+        img, a img {
+            border: none;
+        }
+        #main-content { background: white; }
+        #title-panel { padding: 0.25in 0.5in; }
+        #top-panels {
+            padding:        0.5em 0.5in;
+            border-top:     1px solid #BCB79E;
+            border-bottom:  1px solid #BCB79E;
+            background:     #FBF4D3;
+        }
+        
+        .exhibit-tileView-body { list-style: none; }
+        .exhibit-collectionView-group-count { display: none; }
+        
+        table.nobelist {
+            border:     1px solid #ddd;
+            padding:    0.5em;
+            margin:     0.5em 0;
+            display:    block;
+        }
+        div.name {
+            font-weight: bold;
+            font-size:   120%;
+        }
+        .relationship {
+            color:  #888;
+        }
+        
+        div.nobelist-thumbnail {
+            float:      left;
+            width:      13em;
+            height:     10em;
+            border:     1px solid #BCB79E;
+            background: #F0FFF0;
+            padding:    1em;
+            margin:     0.5em;
+            text-align: center;
+        }
+        div.nobelist-timeline-lens {
+            padding:    1em;
+            text-align: center;
+        }
+    </style>
+    <script type="text/javascript">
+        function deceaseRowStyler(itemID, database, tr, rowIndex) {
+            var deceased = database.getObject(itemID, "deceased");
+            if (deceased == "yes") {
+                tr.style.backgroundColor = "#f88";
+            }
+        }
+    </script>
+  </head> 
+  <body>
+    <ul id="path">
+      <li><a href="http://www.simile-widgets.org/">SIMILE Widgets</a></li>
+      <li><a href="http://www.simile-widgets.org/exhibit/">Exhibit 3.0</a></li>
+      <li><a href="../">Demos</a></li>
+      <li><span>Examples: MIT Nobelists</span></li>
+    </ul>
+    <div data-ex-role="exhibit-collection" data-ex-item-types="Article"></div>
+    
+    <div id="main-content">
+        <div id="title-panel">
+            <h1>Mapas de Amenaza</h1>
+        </div>
+    
+        <div id="top-panels">
+            <table style="{width: 100%}"><tr>
+                <td><div data-ex-role="facet" data-ex-expression=".affiliation.label" data-ex-facet-label="Afiliación"></div></td>
+                <td><div data-ex-role="facet" data-ex-expression=".year" data-ex-facet-label="Año"></div></td>
+                <td><div data-ex-role="facet" data-ex-expression=".mainAuthor" data-ex-facet-label="Autor Principal"></div></td>
+                <td><div data-ex-role="facet" data-ex-expression=".pubType" data-ex-facet-label="Tipo"></div></td>
+                <td><div data-ex-role="facet" data-ex-expression=".affiliation.country" data-ex-facet-label="País Afiliación"></div></td>
+            </tr></table>
+        </div>
+        <div class="item" data-ex-role="exhibit-lens" data-ex-item-types="Affiliation" style="display: none">
+            <h2><span data-ex-content=".label"></span></h2>
+            <p><span data-ex-content=".city"></span>,&nbsp;<span data-ex-content=".country"></span></p>
+        </div>
+        <div class="item" data-ex-role="exhibit-lens" data-ex-item-types="Article" style="display: none">
+            <p>Label: <span data-ex-content=".label"></span></p>
+        </div>
+        <div data-ex-role="viewPanel">
+            <div data-ex-role="view"
+                    data-ex-view-class="Exhibit.TabularView"
+                    data-ex-columns=".pubDate, .pubType, .doi, .mainAuthor, .pubName ,.title, .affiliation"
+                    data-ex-column-labels="date, type, doi, author ,publication ,title, afiliacion"
+                    data-ex-formats="date { mode: medium; show: date }"
+                    data-ex-sort-column="0"
+                    data-ex-sort-ascending="false"
+                    data-ex-row-atyler="rowStyler"
+                    >
+                    <table style="display: none;">
+                        <tr data-ex-background-style-content="if(exists(.death), '#ccc', 'white')">
+                            <td><span data-ex-content=".pubDate"></span></td>
+                            <td><span data-ex-content=".pubType"></span></td>
+                            <td><span data-ex-content=".doi"></span></td>
+                            <td><span data-ex-content=".mainAuthor"></span></td>
+                            <td><span data-ex-content=".pubName"></span></td>
+                            <td><a data-ex-href-content=".link" target="_blank"><b data-ex-content=".title"></b></a></td>
+                            <td><span data-ex-content=".affiliation"></span></td>
+                        </tr>
+                    </table>
+            </div>
+        </div>
+    </div>
+  </body>
+</html>

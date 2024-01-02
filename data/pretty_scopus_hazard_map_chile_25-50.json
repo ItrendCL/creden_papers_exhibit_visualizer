@@ -1,0 +1,468 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "33",
+    "opensearch:startIndex": "25",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "TITLE-ABS-KEY(\"hazard map\" AND chile)",
+      "@startPage": "25"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "prev",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=8&count=25&query=TITLE-ABS-KEY%28%22hazard+map%22+AND+chile%29&apiKey=966e5ad25f0332fa6297181bf283d379",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/70350173612"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/70350173612?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=70350173612&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=70350173612&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/70350173612",
+        "dc:identifier": "SCOPUS_ID:70350173612",
+        "eid": "2-s2.0-70350173612",
+        "dc:title": "The influence of urban expansion on the flood hazard in Santiago de Chile: A modeling approach using remote sensing data",
+        "dc:creator": "Ebert A.",
+        "prism:publicationName": "2009 Joint Urban Remote Sensing Event",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9781424434619"
+          }
+        ],
+        "prism:pageRange": null,
+        "prism:coverDate": "2009-10-26",
+        "prism:coverDisplayDate": "2009",
+        "prism:doi": "10.1109/URS.2009.5137601",
+        "citedby-count": "9",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Helmholtz Zentrum für Umweltforschung",
+            "affiliation-city": "Leipzig",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "article-number": "5137601",
+        "source-id": "19400157153",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/57849129014"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/57849129014?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=57849129014&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=57849129014&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/57849129014",
+        "dc:identifier": "SCOPUS_ID:57849129014",
+        "eid": "2-s2.0-57849129014",
+        "dc:title": "Assessment and modelling of debris flows in the E1 Niñpo affected area of Matucana, Peru",
+        "dc:creator": "Fidel L.",
+        "prism:publicationName": "International Conference on Debris-Flow Hazards Mitigation: Mechanics, Prediction, and Assessment, Proceedings",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9789059660595"
+          }
+        ],
+        "prism:pageRange": "377-388",
+        "prism:coverDate": "2007-12-01",
+        "prism:coverDisplayDate": "2007",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Instituto Geológico Minero y Melalúrgico",
+            "affiliation-city": null,
+            "affiliation-country": "Peru"
+          }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "67044",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/53549119097"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/53549119097?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=53549119097&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=53549119097&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/3-s2.0-B978044452748600078X"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/53549119097",
+        "dc:identifier": "SCOPUS_ID:53549119097",
+        "eid": "2-s2.0-53549119097",
+        "dc:title": "Tsunamis",
+        "dc:creator": "Satake K.",
+        "prism:publicationName": "Treatise on Geophysics",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780444527486"
+          }
+        ],
+        "prism:volume": "4",
+        "prism:pageRange": "483-511",
+        "prism:coverDate": "2007-12-01",
+        "prism:coverDisplayDate": "2007",
+        "prism:doi": "10.1016/B978-044452748-6.00078-X",
+        "pii": "B978044452748600078X",
+        "citedby-count": "24",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "National Institute of Advanced Industrial Science and Technology",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21100254750",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85146816983"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/85146816983?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85146816983&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85146816983&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/3-s2.0-B978044452748600078X"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85146816983",
+        "dc:identifier": "SCOPUS_ID:85146816983",
+        "eid": "2-s2.0-85146816983",
+        "dc:title": "4.17 - Tsunamis",
+        "dc:creator": "Satake K.",
+        "prism:publicationName": "Treatise on Geophysics: Volume 1-10",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "9780444527486"
+          },
+          {
+            "@_fa": "true",
+            "$": "9780444519283"
+          }
+        ],
+        "prism:volume": "1-10",
+        "prism:pageRange": "483-511",
+        "prism:coverDate": "2007-01-01",
+        "prism:coverDisplayDate": "1 January 2007",
+        "prism:doi": "10.1016/B978-044452748-6.00078-X",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "National Institute of Advanced Industrial Science and Technology",
+            "affiliation-city": "Tsukuba",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Book",
+        "subtype": "ch",
+        "subtypeDescription": "Book Chapter",
+        "source-id": "21101132277",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0033495255"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0033495255?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0033495255&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0033495255&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/0033495255",
+        "dc:identifier": "SCOPUS_ID:0033495255",
+        "eid": "2-s2.0-0033495255",
+        "dc:title": "Seismic hazard map of the western hemisphere",
+        "dc:creator": "Shedlock K.",
+        "prism:publicationName": "Annali di Geofisica",
+        "prism:issn": "03652556",
+        "prism:volume": "42",
+        "prism:issueIdentifier": "6",
+        "prism:pageRange": "1199-1214",
+        "prism:coverDate": "1999-12-01",
+        "prism:coverDisplayDate": "1999",
+        "citedby-count": "16",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "United States Geological Survey",
+            "affiliation-city": "Reston",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "110382",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0029504990"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0029504990?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0029504990&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0029504990&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/0029504990",
+        "dc:identifier": "SCOPUS_ID:0029504990",
+        "eid": "2-s2.0-0029504990",
+        "dc:title": "Geographical information system applications to geomorphological and environmental studies: a synthetic map of potential risk and a map of erosion",
+        "dc:creator": "Edeso J.",
+        "prism:publicationName": "Lurralde",
+        "prism:volume": "18",
+        "prism:pageRange": "257-291",
+        "prism:coverDate": "1995-01-01",
+        "prism:coverDisplayDate": "1995",
+        "citedby-count": "4",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "29730",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0027721713"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0027721713?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0027721713&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0027721713&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/0027721713",
+        "dc:identifier": "SCOPUS_ID:0027721713",
+        "eid": "2-s2.0-0027721713",
+        "dc:title": "Mass wasting in Chile",
+        "dc:creator": "Hauser Y. A.",
+        "prism:publicationName": "Boletin - Servicio Nacional de Geologia y Mineria, Chile",
+        "prism:volume": "45",
+        "prism:pageRange": null,
+        "prism:coverDate": "1993-01-01",
+        "prism:coverDisplayDate": "1993",
+        "citedby-count": "7",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Servicio Nacional de Geologia y Mineria",
+            "affiliation-city": "Santiago",
+            "affiliation-country": "Chile"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "57287",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0027019765"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/0027019765?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0027019765&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=0027019765&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/0027019765",
+        "dc:identifier": "SCOPUS_ID:0027019765",
+        "eid": "2-s2.0-0027019765",
+        "dc:title": "Possible use of uniform hazard response spectra in building codes in the United States and Chile",
+        "dc:creator": "Leyendecker E.",
+        "prism:publicationName": "Revista Geofisica",
+        "prism:issn": "02529769",
+        "prism:volume": "37",
+        "prism:pageRange": "219-230",
+        "prism:coverDate": "1992-01-01",
+        "prism:coverDisplayDate": "1992",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "28601",
+        "openaccess": "0",
+        "openaccessFlag": false
+      }
+    ]
+  }
+}
